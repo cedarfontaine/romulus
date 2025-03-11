@@ -1,0 +1,4 @@
+(test
+  (name test_linter)
+  (modules test_linter)
+  (libraries str yojson ounit2))

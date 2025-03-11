@@ -1,0 +1,4 @@
+(executable
+  (name main)
+  (modules main config rules/rules rules/rule rules/naming)
+  (libraries str))
